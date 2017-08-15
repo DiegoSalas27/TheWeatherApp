@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TheWeatherApp</string>
+    <string name="select_country">Select the city</string>
+    <string name="today">today</string>
+    <string-array name="city_names">
+        <item>Lima</item>
+        <item>Newark</item>
+        <item>NewYork</item>
+        <item>Barcelona</item>
+    </string-array>
+</resources>
